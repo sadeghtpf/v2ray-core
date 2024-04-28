@@ -17,12 +17,12 @@ import (
 	"v2ray.com/core/common/serial"
 )
 
-var (
-	version  = "4.31.0"
-	build    = "Custom"
-	codename = "V2Fly, a community-driven edition of V2Ray."
-	intro    = "A unified platform for anti-censorship."
-)
+// var (
+// 	version  = "4.31.0"
+// 	build    = "Custom"
+// 	codename = "V2Fly, a community-driven edition of V2Ray."
+// 	intro    = "A unified platform for anti-censorship."
+// )
 
 // Version returns V2Ray's version as a string, in the form of "x.y.z" where x, y and z are numbers.
 // ".z" part may be omitted in regular releases.
